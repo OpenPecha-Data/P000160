@@ -1,0 +1,39 @@
+ebook_metadata:
+  title: ༄༅༅། །ཡིད་བཞིན་མཛོད་འགྲེལ་ཐེག་དགུའི་ཚོགས་བཤད་སྡོམ་གསུམ་གནད་བསྡུས་ཀྱི་ཚོགས་བཤད་སྒྱུ་འཕྲུལ་གསང་སྙིང་སྤྱི་དོན་གྱི་ཚོགས་བཤད་སེམས་ཉིད་ངལ་གསོའི་མཆན་འགྲེལ་བཅས།
+    །
+  authors:
+  - མཛད་པ་པོ། ཞེ་ཆེན་རྒྱལ་ཚབ་འགྱུར་མེད་པདྨ་རྣམ་རྒྱལ།
+  sku: SHE-SG-11
+  layers:
+  - book_title
+  - author
+  - chapter_title
+  - quotation
+  - sabche
+  - yigchung
+web_metadata:
+  title:
+    en: Commentaries on the Nine Yanas and Longchenpa’s Wish-Fulfilling Treasury
+    bo: ཡིད་བཞིན་མཛོད་དང་ཐེག་དགུ་སེམས་ཉིད་ངལ་གསོ།༼ད༽
+  collection:
+    en: Shechen Gyaltsab Series–  Book 11
+    bo: ཞེ་ཆེན་རྒྱལ་ཚབ་གསུང་འབུམ།–  དེབ། ༡༡
+  author:
+    en: Shechen Gyaltsap Gyurme Pema Namgyal
+    bo: ཞེ་ཆེན་རྒྱལ་ཚབ་འགྱུར་མེད་པདྨ་རྣམ་རྒྱལ།
+  pusblisher:
+    en: Shechen Publications
+    bo: ཞེ་ཆེན་བསྟན་གཉིས་དར་རྒྱས་གླིང།
+  sku: SHE-SG-11
+  category:
+    en: ''
+    bo: ''
+  org:
+    bo: Timeless Treasuries
+    en: མཐའ་ཡས་དཔེ་མཛོད།
+  website: http://dharmacloud.tsadra.org
+  aquisition_data: '2019-07-18'
+  filename: SHE-SG-11.epub
+  description:
+    en: ''
+    bo: ''
