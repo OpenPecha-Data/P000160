@@ -1,9 +1,10 @@
-ebook_metadata:
+id: P000160
+initial_creation_type: ebook
+source_metadata:
   title: ༄༅༅། །ཡིད་བཞིན་མཛོད་འགྲེལ་ཐེག་དགུའི་ཚོགས་བཤད་སྡོམ་གསུམ་གནད་བསྡུས་ཀྱི་ཚོགས་བཤད་སྒྱུ་འཕྲུལ་གསང་སྙིང་སྤྱི་དོན་གྱི་ཚོགས་བཤད་སེམས་ཉིད་ངལ་གསོའི་མཆན་འགྲེལ་བཅས།
     །
   authors:
   - མཛད་པ་པོ། ཞེ་ཆེན་རྒྱལ་ཚབ་འགྱུར་མེད་པདྨ་རྣམ་རྒྱལ།
-  sku: SHE-SG-11
   layers:
   - book_title
   - author
@@ -11,6 +12,7 @@ ebook_metadata:
   - quotation
   - sabche
   - yigchung
+  id: SHE-SG-11
 web_metadata:
   title:
     en: Commentaries on the Nine Yanas and Longchenpa’s Wish-Fulfilling Treasury
